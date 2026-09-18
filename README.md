@@ -1,14 +1,18 @@
 # Consumo de Água
 
-Este projeto é um pequeno script em Python para classificar o consumo de água de acordo com o tipo de imóvel e o volume consumido.
+# Descrição
+Um pequeno projeto em Python para classificar o consumo de água de acordo com o tipo de imóvel e o volume consumido.
 
-## Funcionalidade
+## Como funciona
 
 O programa solicita:
 - o tipo de imóvel: comercial, casa ou apartamento
 - o consumo de água em m³
 
 Com base nessas informações, ele exibe uma mensagem indicando se o consumo está dentro do padrão, econômico ou excessivo.
+
+## Linguagem Utilizada
+![Python](https://img.shields.io/badge/Python-orange?logo=python)
 
 ## Como executar
 
@@ -26,6 +30,4 @@ python app.py
 - `casa` e `20`
 - `comercial` e `50`
 
-## Observação
-
-O script foi desenvolvido como exemplo simples de lógica condicional em Python.
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
